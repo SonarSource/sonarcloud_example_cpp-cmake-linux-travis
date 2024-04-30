@@ -1,4 +1,4 @@
-This example project is stale and unsupported. It has been replaced by [this]({[Redirect Target](https://github.com/sonarsource-cfamily-examples)}) example project.
+This example project is stale and unsupported. It has been replaced by [this](https://github.com/sonarsource-cfamily-examples) example project.
 
 # C++ example project scanned on SonarCloud using Travis
 
